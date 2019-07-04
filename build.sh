@@ -10,5 +10,5 @@ export CROSS_COMPILE=~/tc/bin/aarch64-linux-gnu-
 
 #rm -rf out
 mkdir -p out
-make O=out on5xelte_00_defconfig
+make O=out on5xelte_PP_defconfig
 make O=out
